@@ -9,5 +9,6 @@ The goal of this assignment is to list users by consuming a fake API from JsonPl
 ## Stack
 - React & Hooks
 - Axios
-- CSS
 - TypeScript
+- HTML
+- CSS
