@@ -7,7 +7,7 @@
 The goal of this assignment is to list users by consuming a fake API from JsonPlaceHolder.
 
 ## Stack
-React & Hooks
-Axios
-CSS
-TypeScript
+- React & Hooks
+- Axios
+- CSS
+- TypeScript
